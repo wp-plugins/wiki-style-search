@@ -16,8 +16,8 @@ Wiki Style Search will cause WP's search to go directly to a page or post if a p
 
 For Example:
 
-	* A search query of 'spider': http://thelargest.net/?s=spider takes you to http://thelargest.net/spider
-	* A search query of 'cruise ship': http://thelargest.net/?s=cruise+ship takes you to http://thelargest.net/cruise-ship
+	- A search query of 'spider': http://thelargest.net/?s=spider takes you to http://thelargest.net/spider
+	- A search query of 'cruise ship': http://thelargest.net/?s=cruise+ship takes you to http://thelargest.net/cruise-ship
 
 Test more at <a href="http://thelargest.net">The Largest</a>.
 
