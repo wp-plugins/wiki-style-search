@@ -5,7 +5,7 @@ Plugin URI: http://thelargest.net/about/wiki-style-search-plugin
 Author URI: http://thelargest.net
 Tags: search, wiki, wikipedia, redirect, title
 Requires at least: 3.0
-Tested up to: 3.0.5
+Tested up to: 3.1
 Stable tag: trunk
 
 Wiki Style Search bypasses search results and directs users directly to an article if an article name matches their query.
